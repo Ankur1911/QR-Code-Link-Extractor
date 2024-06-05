@@ -18,41 +18,41 @@ This project provides a simple web application that extracts QR code links from 
 ### Backend
 
 1. Clone the repository:
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Ankur1911/QR-Code-Link-Extractor.git
+    cd QR-Code-Link-Extractor
 
 2. Set up a virtual environment and activate it:
 
     python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
+    source venv/bin/activate  
+    # On Windows: venv\Scripts\activate
 
 3. Install the required packages:
-    ```bash
+    
     pip install -r requirements.txt
-    ```
+    
 
 4. Run the Flask app:
-    ```bash
+    
     python app.py
-    ```
+    (flask server will run on port 5000)
 
 ### Frontend
 
 1. Navigate to the frontend directory:
-    ```bash
+    
     cd qr-link-extractor
-    ```
+    
 
 2. Install the required packages:
-    ```bash
+    
     npm install
-    ```
+    
 
 3. Start the React app:
-    ```bash
+    
     npm start
-    ```
+    
 
 ## Usage
 

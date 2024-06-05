@@ -4,3 +4,4 @@ flask
 pillow 
 pymupdf
 requests
+flask_cors
