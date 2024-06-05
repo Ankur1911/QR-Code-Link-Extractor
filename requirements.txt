@@ -1,0 +1,6 @@
+opencv-python
+pyzbar
+flask
+pillow 
+pymupdf
+requests
