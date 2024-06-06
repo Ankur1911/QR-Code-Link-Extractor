@@ -5,3 +5,5 @@ pillow
 pymupdf
 requests
 flask_cors
+lxml
+beautifulsoup4
